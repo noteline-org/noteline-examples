@@ -8,6 +8,10 @@ Each step is just a Notebook that is using GCS as a storage for sharing step res
 
 Pipeline itself is generated in the [pipeline.ipynb notebook](./pipeline.ipynb).
 
+# Requirements
+
+This example is compatible with eihter [GCP Deep Learning Containers](https://cloud.google.com/ai-platform/deep-learning-containers) or with any containers that are build on top of them. It can NOT be used with just random docker containers.
+
 # Execution Result:
 
 Run page:

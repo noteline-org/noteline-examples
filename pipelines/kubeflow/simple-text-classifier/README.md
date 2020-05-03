@@ -11,12 +11,15 @@ Pipeline itself is generated in the [pipeline.ipynb notebook](./pipeline.ipynb).
 # Execution Result:
 
 Run page:
+
 ![](./pipeline-run.png)
 
 Logs:
+
 ![](./logs.png)
 
 Bucket:
+
 ![](./bucket.png)
 
 # Related packages:
